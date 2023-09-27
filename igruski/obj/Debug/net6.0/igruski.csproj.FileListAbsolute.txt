@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\igruski\igruski\bin\Debug\net6.0\igruski.exe
+C:\Users\admin\source\repos\igruski\igruski\bin\Debug\net6.0\igruski.deps.json
+C:\Users\admin\source\repos\igruski\igruski\bin\Debug\net6.0\igruski.runtimeconfig.json
+C:\Users\admin\source\repos\igruski\igruski\bin\Debug\net6.0\igruski.dll
+C:\Users\admin\source\repos\igruski\igruski\bin\Debug\net6.0\igruski.pdb
+C:\Users\admin\source\repos\igruski\igruski\obj\Debug\net6.0\igruski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\igruski\igruski\obj\Debug\net6.0\igruski.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\igruski\igruski\obj\Debug\net6.0\igruski.AssemblyInfo.cs
+C:\Users\admin\source\repos\igruski\igruski\obj\Debug\net6.0\igruski.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\igruski\igruski\obj\Debug\net6.0\igruski.dll
+C:\Users\admin\source\repos\igruski\igruski\obj\Debug\net6.0\refint\igruski.dll
+C:\Users\admin\source\repos\igruski\igruski\obj\Debug\net6.0\igruski.pdb
+C:\Users\admin\source\repos\igruski\igruski\obj\Debug\net6.0\igruski.genruntimeconfig.cache
+C:\Users\admin\source\repos\igruski\igruski\obj\Debug\net6.0\ref\igruski.dll
